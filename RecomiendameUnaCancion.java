@@ -10,5 +10,12 @@ public class RecomiendameUnaCancion {
         System.out.println("Canción: Black");
         System.out.println("Artista: Pearl Jam");
         System.out.println("¿Por qué?: La guitarra es buenísima");
+
+
+        //Recomendacion agregada por Manuel
+        System.out.println("\nManuel recomienda:");
+        System.out.println("Canción: Bohemian Rhapsody");
+        System.out.println("Artista: Queen");
+        System.out.println("¿Por qué?: Es una canción icónica con muchas partes diferentes");   
     }
 }
